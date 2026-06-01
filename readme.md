@@ -1,2 +1,4 @@
-git config --global user.email ""
-git config --global user.name ""
+-git config --global user.email "aiawwal29@gmail.com"
+-git config --global user.name "awwalsrg"
+
+belajar perintah git
